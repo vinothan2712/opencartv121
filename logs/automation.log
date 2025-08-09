@@ -1,0 +1,15 @@
+2025-07-07 00:41:21 INFO  TC_001_AccountRegistrationTest:25 - Clicked on Register link
+2025-07-07 00:41:21 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details
+2025-07-07 00:41:23 INFO  TC_001_AccountRegistrationTest:42 - Validating expected confirmation message...
+2025-07-07 00:41:23 INFO  TC_001_AccountRegistrationTest:42 - Validating expected confirmation message...
+2025-07-07 00:41:23 ERROR TC_001_AccountRegistrationTest:51 - test failed
+2025-07-07 00:41:23 DEBUG TC_001_AccountRegistrationTest:52 - Debug logs
+2025-07-07 00:41:23 ERROR TC_001_AccountRegistrationTest:51 - test failed
+2025-07-07 00:41:23 DEBUG TC_001_AccountRegistrationTest:52 - Debug logs
+2025-07-07 00:41:26 INFO  TC_001_AccountRegistrationTest:17 - ****** Starting TC_001_AccountRegistrationTest ******
+2025-07-07 00:41:26 INFO  TC_001_AccountRegistrationTest:22 - Clicked on My Account link
+2025-07-07 00:41:27 INFO  TC_001_AccountRegistrationTest:25 - Clicked on Register link
+2025-07-07 00:41:27 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details
+2025-07-07 00:41:29 INFO  TC_001_AccountRegistrationTest:42 - Validating expected confirmation message...
+2025-07-07 00:41:29 ERROR TC_001_AccountRegistrationTest:51 - test failed
+2025-07-07 00:41:29 DEBUG TC_001_AccountRegistrationTest:52 - Debug logs
